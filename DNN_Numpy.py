@@ -78,6 +78,7 @@ class NN:
 
 
 if __name__ == "__main__":
+    #AND Gate Implementation
     from sklearn.metrics import accuracy_score
     
     nn = NN((3, 10, 4, 1))
